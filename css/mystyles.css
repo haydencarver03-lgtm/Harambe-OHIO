@@ -1,0 +1,25 @@
+body{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color: lightslategray;
+}
+
+h1
+{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+
+.customeFont{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; !important;
+}
+
+h2{
+    color: darkgray;
+    background-color: whitesmoke;
+
+}
+
+.imageCustom{
+    width: 40%;
+    left 0px;
+    right 0px;
+    
+}
